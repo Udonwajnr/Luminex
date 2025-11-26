@@ -1,0 +1,57 @@
+🚀 ROCKET TEMPLATE KIT — COMMERCIAL LICENSE AGREEMENT
+=====================================================
+
+Copyright © 2024 RocketTemplateKit. All rights reserved.
+Website: https://rockettemplatekit.com
+
+Thank you for purchasing a RocketTemplateKit template.
+By using, downloading, or customizing this template, you agree to the terms below.
+
+-----------------------------------------------------
+1. LICENSE GRANT
+-----------------------------------------------------
+RocketTemplateKit grants you a non-exclusive, non-transferable, 
+and worldwide license to use this template for your own personal 
+or commercial projects, including for clients.
+
+You are allowed to:
+✅ Use the template in unlimited personal or client projects.
+✅ Modify, customize, and adapt the template to fit your needs.
+✅ Publish or deploy projects built using this template.
+
+-----------------------------------------------------
+2. RESTRICTIONS
+-----------------------------------------------------
+You may NOT:
+❌ Resell, redistribute, or repackage this template as your own.
+❌ Offer the template (or modified versions) for free or paid download.
+❌ Use the template in a way that competes directly with RocketTemplateKit.
+
+-----------------------------------------------------
+3. OWNERSHIP
+-----------------------------------------------------
+All templates, components, and design assets remain the intellectual 
+property of RocketTemplateKit. Your license grants you rights to use 
+the template, not ownership of the original source files.
+
+-----------------------------------------------------
+4. LIABILITY
+-----------------------------------------------------
+RocketTemplateKit is not liable for any damages or losses resulting 
+from the use or inability to use this template, whether direct or indirect.
+
+-----------------------------------------------------
+5. TERMINATION
+-----------------------------------------------------
+Violation of this license will result in immediate termination of your rights 
+to use this template. Continued use after termination is prohibited.
+
+-----------------------------------------------------
+6. CONTACT
+-----------------------------------------------------
+For questions, extended licensing, or partnership inquiries:
+📧 support@rockettemplatekit.com
+
+-----------------------------------------------------
+END OF LICENSE
+-----------------------------------------------------
